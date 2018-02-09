@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="ShapeSecurityTest" >
+
+  <test verbose="3" name="Test-1"  >
+    <classes>
+       <class name="com.ss.gui.tests.DynamicContentTest" />
+    </classes> 
+	</test>
+	
+</suite>

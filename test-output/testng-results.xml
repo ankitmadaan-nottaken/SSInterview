@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ShapeSecurityTest" duration-ms="43160" started-at="2018-02-09T02:25:01Z" finished-at="2018-02-09T02:25:44Z">
+    <groups>
+    </groups>
+    <test name="Test-1" duration-ms="43160" started-at="2018-02-09T02:25:01Z" finished-at="2018-02-09T02:25:44Z">
+      <class name="com.ss.gui.tests.DynamicContentTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ss.gui.tests.DynamicContentTest@6af93788]" name="setUp" is-config="true" duration-ms="4918" started-at="2018-02-08T18:25:01Z" finished-at="2018-02-08T18:25:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="isTenCharTest()[pri:0, instance:com.ss.gui.tests.DynamicContentTest@6af93788]" name="isTenCharTest" duration-ms="37697" started-at="2018-02-08T18:25:06Z" finished-at="2018-02-08T18:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isTenCharTest -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.ss.gui.tests.DynamicContentTest@6af93788]" name="cleanUp" is-config="true" duration-ms="525" started-at="2018-02-08T18:25:44Z" finished-at="2018-02-08T18:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.ss.gui.tests.DynamicContentTest -->
+    </test> <!-- Test-1 -->
+  </suite> <!-- ShapeSecurityTest -->
+</testng-results>
